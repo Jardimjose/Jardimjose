@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm José Jardim a Front-end web developer.
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Jardimjose)
+
 
 <!--
 **Jardimjose/Jardimjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
