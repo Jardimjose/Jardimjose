@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm José Jardim a Front-end web developer.
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Jardimjose)
+
 
 
 <!--
