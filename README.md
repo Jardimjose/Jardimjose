@@ -1,4 +1,4 @@
-### Hello👋, I'm José Jardim a Front-end web developer.
+### Hello👋, I'm José Jardim an aspiring software developer.
 
 
 
