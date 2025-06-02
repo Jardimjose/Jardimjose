@@ -1,5 +1,5 @@
 ### Hello👋, I'm José Jardim an aspiring full-stack web developer.
-### 🌱 I’m currently learning a mixture of javascrpt and typesscript based frameworks
+
 
 
 
