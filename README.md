@@ -1,4 +1,4 @@
-### Hello👋, I'm José Jardim an aspiring full-stack web developer.
+### Hello👋, I'm José Jardim an aspiring software developer.
 
 
 
