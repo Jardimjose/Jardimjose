@@ -1,5 +1,4 @@
-### Hello👋, I'm José Jardim an aspiring software developer.
-
+### Hello, I'm José Jardim👋
 
 
 
