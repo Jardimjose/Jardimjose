@@ -1,5 +1,5 @@
 ### Hello, I'm José Jardim👋
-- 🌱 I’m currently completeting a Software Development degree at Högskolan i KristianStad.  
+- 🌱 I’m currently completing a Software Development degree at Högskolan i KristianStad.  
 - 📫 How to reach me: jardim.jose@outlook.com
 
 
