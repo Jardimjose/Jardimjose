@@ -1,8 +1,9 @@
 ### Hello, I'm José Jardim👋
 - 🌱 I’m currently completing a Software Development degree at Högskolan Kristianstad.
-- 📫 How to reach me: jardim.jose@outlook.com
 
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josejardim/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:jardim.jose@outlook.com)
 
 
 <!--
